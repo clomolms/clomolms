@@ -1,0 +1,13 @@
+{
+    "app_id" : "ClomoLMS",
+    "versioncode" : "2016",
+    "versionname" : "1.0.0",
+    "cache_expiration_time" : 300000,
+    "default_lang" : "en",
+    "languages": {"en": "English"},
+    "wsservice" : "moodle_mobile_app",
+    "wsextservice" : "local_mobile",
+    "siteurl": "http://www.clomolms.com"
+     gcmpn": "694767596569",
+    "customurlscheme": "moodlemobile"
+}
